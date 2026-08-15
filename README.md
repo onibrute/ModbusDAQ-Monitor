@@ -15,6 +15,8 @@ ModbusDAQ Monitor is a Windows desktop application for acquiring, visualizing, c
 - Configurable alarm thresholds, warning bands, and hysteresis.
 - Bounded measurement history, charting, CSV export, continuous CSV logging, and a hardware-free simulation mode.
 - Separation between the MFC user interface, acquisition services, protocol logic, serial transport, and testable domain logic.
+  
+<img width="659" height="438" alt="ada" src="https://github.com/user-attachments/assets/42a9df50-0c8b-4ed3-9dbe-82bdaf20feec" />
 
 ## Bench setup and system boundary
 
