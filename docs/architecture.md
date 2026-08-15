@@ -96,7 +96,7 @@ sequenceDiagram
         UI->>UI: Evaluate alarms and update history
         UI->>UI: Enqueue CSV row
     else Communication failure
-        UI->>UI: Report status; do not synthesize 0.0 mA
+        UI->>UI: Report communication status without synthesizing 0.0 mA
     end
 ```
 
