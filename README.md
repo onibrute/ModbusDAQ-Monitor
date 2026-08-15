@@ -3,6 +3,7 @@
 ModbusDAQ Monitor is a Windows desktop application for acquiring, visualizing, calibrating, and logging four 4–20 mA channels from an ICP DAS M-7017RC module over Modbus RTU. It was developed and bench-tested as an undergraduate engineering project.
 
 > **Project status:** academic, bench-validated prototype. It is not a hard real-time system, a safety instrumented system, or production-ready industrial software.
+<img width="1302" height="996" alt="Proiect de licență - Preda Robert Constantin" src="https://github.com/user-attachments/assets/1ec654e5-196c-4b8e-b28b-9a5053f82b5d" />
 
 ## What the project demonstrates
 
